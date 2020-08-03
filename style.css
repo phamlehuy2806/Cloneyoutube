@@ -1,0 +1,189 @@
+body {
+    /* font-size: 10px; */
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("https://www.tubegeeks.com/wp-content/uploads/2013/07/white-wood.png");
+}
+
+
+  
+  nav {
+    padding:15px;
+  }
+  
+  /* Navigation Bar */
+  
+  .logo {
+    max-width: 100px;
+    vertical-align: middle;
+  }
+  
+  .login-button {
+    float: right;
+    margin-bottom: 10px;
+    color: #065fd4;
+    border: 1px;
+    border-style: solid;
+    border-color: #056ef7;
+    border-radius: 5%;
+    background-color: #f9f9f9;
+  }
+  
+  .fa-bars {
+    padding-right: 10px;
+
+  }
+  
+  .search-input {
+    margin-left: 15%;
+   width: 500px;
+    margin-right: -5px;
+  }
+  
+  /* Video */
+  
+  .upload-video-div {
+    float: right;
+  }
+  
+  .upload-video-div i {
+    padding-right: 10px;
+  }
+  
+  /* .grid-item-comment {
+    padding-top: 10px;
+  } */
+  
+  /* .video-title {
+    border-bottom: 1px solid #dbdbdb;
+    padding-top: 15px;
+    font-size: 24px;
+    display: block;
+    width: 85%;
+  } */
+/*   
+  .number-of-views {
+    padding-top: 15px;
+    color: #636363;
+    font-size: 14px;
+    display: inline-block;
+  } */
+
+  /* .like-and-dislike-section {
+    display: inline-block;
+    padding-left: 550px;
+    color: #636363;
+  } */
+/*   
+  .likes-share {
+    font-family: roboto, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+  } */
+  
+  .like-share-elements {
+    padding-right: 10px;
+  }
+  
+  /* Video info and description */
+  
+  /* .video-info {
+    padding-top: 10px;
+  }
+  
+  .user-info {
+    margin-right: 10px;
+    padding-top: 20px;
+  }
+  
+  .user-name {
+    font-weight: bold;
+    font-family: roboto, sans-serif;
+  }
+  
+  .num-subscribers {
+    color: #606060;
+  }
+  
+  .video-description {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .description-show-more {
+    padding-left: 68px;
+    color: #606060;
+    font-size: 13px;
+  }
+  
+  .subscribe-button {
+    background-color: #cc353d;
+    color: white;
+    padding: 10px 16px;
+    border-radius: 2px;
+    font-family: roboto, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    float: right;
+  } */
+  
+  /* Recommended videos */
+  
+  .recommended-videos {
+    width: 80%;
+    float: right;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  
+  .recommended-video-thumbnail {
+    height: 100px;
+    width: 150px;
+    float: left;
+    padding-right: 10px;
+  }
+  
+  .recommended-video-info {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 25px;
+    padding: 5px;
+  }
+  
+  /* .up-next-autoplay {
+    margin-bottom: 10px;
+  } */
+  
+  .recommended-video-title {
+    color: rgb(5, 5, 5);
+    font-family: roboto, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+.recommended-hashtag{
+    color: black;
+    font-size: 20px;
+}
+
+  .recommended-video-channel{
+      font-size: 15px;
+        color: rgb(0, 0, 0);
+  }
+  .recommended-video-views{
+      font-size: 15px;
+        color: rgb(8, 8, 8);
+  }
+  .autoplay {
+    color: #636363;
+    font-family: roboto, sans-serif,;
+    font-size: 13px;
+  }
+  
+  .fa-toggle-on {
+    padding-left: 11px;
+    font-size: 18px;
+    color: blue;
+  }
+  
